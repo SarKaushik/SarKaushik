@@ -63,7 +63,7 @@ Projects that merge cloud infrastructure, data engineering, and artificial intel
 &nbsp;
 <img title="Tableau" alt="Tableau" src="https://img.icons8.com/color/48/tableau-software.png" width="40" height="40"/>
 &nbsp;
-<img title="Power BI" alt="Power BI" src="https://img.icons8.com/color/48/000000/power-bi.pngg" width="40" height="40"/>
+<img title="Power BI" alt="Power BI" src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40"/>
 &nbsp;
 <img title="dbt (Data Build Tool)" alt="dbt" src="https://avatars.githubusercontent.com/u/54212428?s=200&v=4" width="40" height="40"/>
 </p>
