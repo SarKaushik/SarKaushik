@@ -37,8 +37,7 @@ Here are some ideas to get you started:
 
 
 ### 🌱 I’m currently learning
-AWS Comprehend & Rekognition for NLP and vision analytics, MLOps: End-to-end model lifecycle on cloud platforms, Multimodal AI, S3 versioning for 
-model artifacts, Azure Synapse for ML-based data transformation
+AWS Comprehend & Rekognition for NLP and vision analytics, MLOps: End-to-end model lifecycle on cloud platforms, Agentic AI, Autogen, LangGraph, LangChain, Machine Learning with Tree Based Model in python
 
 ### 👯 I’m Open to Collaboration
 Projects that merge cloud infrastructure, data engineering, and artificial intelligence to build scalable, forward-thinking solutions. Whether it’s predictive modeling, automation workflows, or intelligent data pipelines on AWS or Azure — I’m all in for creating impact through innovation.
