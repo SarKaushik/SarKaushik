@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 AWS Comprehend & Rekognition for NLP and vision analytics, AI Product Management,  MLOps: End-to-end model lifecycle on cloud platforms, Agentic AI, Autogen, LangGraph, LangChain, Machine Learning with Tree Based Model in python
 
 ### 👯 I’m Open to Collaboration
-Projects that merge cloud infrastructure, data engineering, and artificial intelligence to build scalable, forward-thinking solutions. Whether it’s predictive modeling, automation workflows, or intelligent data pipelines on AWS or Azure — I’m all in for creating impact through innovation.
+Projects that combine cloud infrastructure, AI product management, and artificial intelligence to build scalable, forward-thinking solutions. Whether it’s predictive modeling, automation workflows, or intelligent systems using a multicloud environment — I’m passionate about creating meaningful impact through innovation.
 
 
 ### 🧰 Tools & Technologies I Use
