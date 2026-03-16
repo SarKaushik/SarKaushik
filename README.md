@@ -12,7 +12,7 @@ I thrive at the intersection of tech and strategy: designing scalable systems, e
 📚 Outside of work, I love diving into books, volunteering, and staying curious with emerging technologies.
 
 📬 Reach me: sarvesh.kaushik48@gmail.com
-Absolutely! Here’s a shorter, compelling version of your GitHub profile summary that still reflects your passions and areas of expertise — now with AI included:
+
 
 🔗 Let’s connect:<p align="left">
 <a href="https://www.linkedin.com/in/sarveshkaushik24/" target="_blank">
