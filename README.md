@@ -1,5 +1,5 @@
 
-**👋 Hi, I’m Sarvesh** — a passionate and results-driven IT professional with a focus on Cloud Computing, Business Analytics, AI, and the 3 P’s: Product, Program & Project Management.
+**👋 Hi, I’m Sarvesh** — a passionate and results-driven IT professional with a focus on Cloud Computing, Business Analytics, AI, and Product Management.
 
 I thrive at the intersection of tech and strategy: designing scalable systems, enhancing data visibility, and leading cross-functional teams to drive innovation. Whether it's building cloud-native solutions, optimizing processes, or exploring AI-driven analytics, I’m all about impact and continuous improvement.
 
