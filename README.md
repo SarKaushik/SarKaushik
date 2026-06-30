@@ -1,13 +1,25 @@
 
 **👋 Hi, I’m Sarvesh** — a passionate and results-driven IT professional with a focus on Cloud Computing, Business Analytics, AI, and Product Management.
 
-I thrive at the intersection of tech and strategy: designing scalable systems, enhancing data visibility, and leading cross-functional teams to drive innovation. Whether it's building cloud-native solutions, optimizing processes, or exploring AI-driven analytics, I’m all about impact and continuous improvement.
+Cloud architect and analytics-driven problem solver. I design scalable systems, unlock insights from data, and build AI products that drive measurable business outcomes. Passionate about cross-functional delivery and continuous improvement.
 
 📈 Core Strengths
-- Cloud Architecture & Security
-- Data Analytics & KPI Design
-- AI Applications & Predictive Modeling
-- Product & Program Leadership
+
+• Data Analytics & Business Intelligence (SQL, Python, Power BI, Tableau)
+• Cloud Architecture & Infrastructure (AWS, Terraform, multi-cloud integration)
+• AI Applications & Generative AI (RAG systems, LLM evaluation, agentic AI, prompt engineering)
+• Product & Program Leadership (cross-functional delivery, roadmapping, stakeholder management)
+
+
+🛠 Tools & Technologies
+
+Languages: Python, SQL/PL-SQL, Bash, R
+Cloud: AWS (EC2, RDS, Lambda, S3, IAM, Bedrock), Terraform, Docker
+Data & Analytics: Snowflake, dbt, Power BI, Tableau, pandas, scikit-learn
+AI/GenAI: LangChain, LangGraph, RAG, vector databases (Chroma, Pinecone), LangSmith, Amazon Bedrock, prompt engineering
+Agentic AI: Multi-agent orchestration, tool use, LLMs, MCP (Model Context Protocol)
+Delivery: Agile/Scrum, SAFe, Jira, Git
+
 
 📚 Outside of work, I love diving into books, volunteering, and staying curious with emerging technologies.
 
@@ -20,20 +32,6 @@ I thrive at the intersection of tech and strategy: designing scalable systems, e
 </a>
 </p>
 
-<!--
-**SarKaushik/SarKaushik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 ### 🌱 I’m currently learning
