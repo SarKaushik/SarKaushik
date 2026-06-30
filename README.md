@@ -5,19 +5,19 @@ Cloud architect and analytics-driven problem solver. I design scalable systems, 
 
 📈 Core Strengths
 
-• Data Analytics & Business Intelligence (SQL, Python, Power BI, Tableau)
-• Cloud Architecture & Infrastructure (AWS, Terraform, multi-cloud integration)
-• AI Applications & Generative AI (RAG systems, LLM evaluation, agentic AI, prompt engineering)
+• Data Analytics & Business Intelligence (SQL, Python, Power BI, Tableau)<br>
+• Cloud Architecture & Infrastructure (AWS, Terraform, multi-cloud integration)<br>
+• AI Applications & Generative AI (RAG systems, LLM evaluation, agentic AI, prompt engineering)<br>
 • Product & Program Leadership (cross-functional delivery, roadmapping, stakeholder management)
 
 
 🛠 Tools & Technologies
 
-Languages: Python, SQL/PL-SQL, Bash, R
-Cloud: AWS (EC2, RDS, Lambda, S3, IAM, Bedrock), Terraform, Docker
-Data & Analytics: Snowflake, dbt, Power BI, Tableau, pandas, scikit-learn
-AI/GenAI: LangChain, LangGraph, RAG, vector databases (Chroma, Pinecone), LangSmith, Amazon Bedrock, prompt engineering
-Agentic AI: Multi-agent orchestration, tool use, LLMs, MCP (Model Context Protocol)
+Languages: Python, SQL/PL-SQL, Bash, R<br>
+Cloud: AWS (EC2, RDS, Lambda, S3, IAM, Bedrock), Terraform, Docker<br>
+Data & Analytics: Snowflake, dbt, Power BI, Tableau, pandas, scikit-learn<br>
+AI/GenAI: LangChain, LangGraph, RAG, vector databases (Chroma, Pinecone), LangSmith, Amazon Bedrock, prompt engineering<br>
+Agentic AI: Multi-agent orchestration, tool use, LLMs, MCP (Model Context Protocol)<br>
 Delivery: Agile/Scrum, SAFe, Jira, Git
 
 
